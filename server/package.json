@@ -1,0 +1,22 @@
+{
+  "name": "startup-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "busboy": "^0.2.14",
+    "express": "^4.13.4",
+    "express-jsonschema": "^1.1.0",
+    "mongo-express": "^0.33.0",
+    "mongodb": "^2.2.15",
+    "multer": "^1.2.1",
+    "rc-calendar": "^7.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^2.4.0",
+    "eslint-plugin-node": "^1.0.0"
+  }
+}

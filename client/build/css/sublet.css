@@ -1,0 +1,32 @@
+body {
+    background-color: #900;
+}
+
+.card {
+	width: 75%;
+    margin: auto;
+    margin-top: 15px;
+}
+
+.post {
+	width: 60%;
+	margin: auto;
+	margin-top: 15px;
+}
+
+.avatar{
+	position: relative;
+	top: 50%;
+	transform: translateY(-60%);
+}
+
+.title{
+   color: white;
+   text-decoration: none;
+}
+
+.cardHead {
+	color: #900;
+	text-align: center;
+	margin-top: 30px;
+}
